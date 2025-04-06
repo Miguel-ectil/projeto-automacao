@@ -1,0 +1,7 @@
+Tarefa,Tipo,Dado
+Abrir navegador,click,navegador_icone
+Esperar abrir,espera,5
+Clicar barra navegador,click,barra_navegador
+Digitar site,texto,https://www.impacta.edu.br/graduacao
+Aguardar,espera,2
+Pressionar enter,tecla,enter
