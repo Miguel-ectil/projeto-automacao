@@ -64,4 +64,4 @@ python assistente_virtual.py:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da MIT License.
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
