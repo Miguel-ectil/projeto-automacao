@@ -1,3 +1,10 @@
+# Projeto: Assistente Virtual Automatizado com Python
+# Participantes:
+# - Miguel Ectil (Desenvolvedor Principal)
+# - RA : 2301985
+# - Luiza Cristina Gonçalves Matias (Colaborador)
+# - RA : 2400797
+
 import pandas as pd
 import pyautogui
 import time
