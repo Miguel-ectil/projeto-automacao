@@ -60,3 +60,8 @@ pip install pandas openpyxl pyautogui
 python assistente_virtual.py:
 ```
 
+--- 
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da MIT License.
